@@ -19,12 +19,12 @@ O projeto foi estruturado com foco em:
 
 ## Links para os Tópicos da Wiki
 
-https://github.com/DRyuw/Pokemon-APP/wiki/1.-Apresentação-do-tema
-https://github.com/DRyuw/Pokemon-APP/wiki/2.-Mapa-de-Navegação
-https://github.com/DRyuw/Pokemon-APP/wiki/3.-Descrição
-https://github.com/DRyuw/Pokemon-APP/wiki/4.-Protótipo
-https://github.com/DRyuw/Pokemon-APP/wiki/5.-Telas
-https://github.com/DRyuw/Pokemon-APP/wiki/6.-API
-https://github.com/DRyuw/Pokemon-APP/wiki/7.-Créditos
+- https://github.com/DRyuw/Pokemon-APP/wiki/1.-Apresentação-do-tema  
+- https://github.com/DRyuw/Pokemon-APP/wiki/2.-Mapa-de-Navegação  
+- https://github.com/DRyuw/Pokemon-APP/wiki/3.-Descrição  
+- https://github.com/DRyuw/Pokemon-APP/wiki/4.-Protótipo  
+- https://github.com/DRyuw/Pokemon-APP/wiki/5.-Telas  
+- https://github.com/DRyuw/Pokemon-APP/wiki/6.-API  
+- https://github.com/DRyuw/Pokemon-APP/wiki/7.-Créditos  
 
 ---
